@@ -1,3 +1,3 @@
 @echo off
-nodemon index.js
+node index.js
 pause
