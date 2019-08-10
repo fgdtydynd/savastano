@@ -1,1 +1,1 @@
-worker: strat
+worker: start
